@@ -1,4 +1,4 @@
-# Hi, I'm Nandini Kendre 👋
+# Hi, I'm Nandini Kendre🌷
 
 ### Senior Research Fellow | VLSI & ASIC Design Engineer | FPGA-Based ML Accelerators
 
