@@ -23,9 +23,6 @@ Passionate VLSI Engineer with expertise in FPGA Prototyping, ASIC Design Flow, R
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=NandiniKendre&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github-profile-trophy.vercel.app/?username=NandiniKendre)
-
 
 # 🎓 Current Role
 
