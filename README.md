@@ -17,6 +17,15 @@ Passionate VLSI Engineer with expertise in FPGA Prototyping, ASIC Design Flow, R
 * ⚡ Fun Fact: **Turning hardware ideas into silicon is my passion!**
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NandiniKendre&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 # 🎓 Current Role
 
