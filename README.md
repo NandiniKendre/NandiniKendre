@@ -110,11 +110,11 @@ Working on:
 
 # 📈 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=NandiniKendre\&theme=tokyonight\&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NandiniKendre\&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniKendre\&layout=compact\&theme=tokyonight)
 
 ---
 
