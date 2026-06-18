@@ -1,6 +1,6 @@
 # Hi, I'm Nandini Kendre🌷 
 
-### 🚀 FPGA | ASIC | RTL Design | Physical Design Engineer
+### 🚀 FPGA | ASIC | RTL Design | Chip Design Engineer
 
 Passionate VLSI Engineer with expertise in FPGA Prototyping, ASIC Design Flow, RTL Design, Physical Design, Verification, and AI Hardware Acceleration. Currently working as a Senior Research Fellow under the C2S Program, MeitY, Government of India, focusing on advanced semiconductor and hardware accelerator research.
 
