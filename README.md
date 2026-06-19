@@ -64,7 +64,6 @@ Passionate VLSI Engineer with expertise in FPGA Prototyping, ASIC Design Flow, R
 * Efficient implementation of banded dynamic programming architecture
 
 ### 📝 Publications in Process
-📄 Publications | Springer • Elsevier
 <!-- PUBLICATIONS:START -->
 - "FPGA - Based Implementation of CNN : A Survey"
 - "AXI-Stream Based FPGA Architecture for High-Throughput HMM Acceleration in DNA Base-Calling"
